@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1.}问题重述}{5}{section.1}% 
+\contentsline {subsection}{\numberline {1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题背景}{5}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}需要解决的问题}{5}{subsection.1.2}% 
+\contentsline {subsubsection}{\numberline {1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题-1：光传送链路建模}{6}{subsubsection.1.2.1}% 
+\contentsline {subsubsection}{\numberline {1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}问题-2：光传送网规划}{6}{subsubsection.1.2.2}% 
+\contentsline {subsubsection}{\numberline {1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}问题-3：改善星座图}{7}{subsubsection.1.2.3}% 
+\contentsline {section}{\numberline {2.}问题一 光传送链路建模}{7}{section.2}% 
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题-1 子问题-1）解答}{7}{subsection.2.1}% 
+\contentsline {subsubsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}QPSK信号情况}{7}{subsubsection.2.1.1}% 
+\contentsline {subsubsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}8QAM信号情况}{13}{subsubsection.2.1.2}% 
+\contentsline {subsubsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}16QAM 信号情况}{14}{subsubsection.2.1.3}% 
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}问题-1 子问题-2）}{14}{subsection.2.2}% 
+\contentsline {subsubsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}单跨传输建模}{14}{subsubsection.2.2.1}% 
+\contentsline {subsubsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}问题-1 子问题-2）求解}{14}{subsubsection.2.2.2}% 
+\contentsline {section}{\numberline {3.}问题二光传送网的规划}{14}{section.3}% 
+\contentsline {subsection}{\numberline {3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}模型建立}{14}{subsection.3.1}% 
+\contentsline {section}{\numberline {4.}符号说明}{15}{section.4}% 
+\contentsline {section}{\numberline {5.}问题分析}{15}{section.5}% 
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题一分析}{15}{subsection.5.1}% 
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}问题二分析}{15}{subsection.5.2}% 
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}问题三分析}{16}{subsection.5.3}% 
+\contentsline {section}{参考文献}{16}{section*.20}% 
+\contentsline {section}{\numberline {附录A}我的 MATLAB 源程序}{18}{section.1}% 
+\contentsfinish 
